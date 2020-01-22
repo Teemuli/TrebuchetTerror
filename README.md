@@ -1,5 +1,5 @@
 # TrebuchetTerror
-![TT](https://i.imgur.com/1Srx6TT.png | width=100)
+![TT](https://i.imgur.com/1Srx6TT.png)
 A simple castle defence survival game with hand-drawn graphics.
 
 The goal of the game is to survive as long as possible. Protect the castle by blocking the boulders slung by the trebuchet.
