@@ -1,4 +1,5 @@
 # TrebuchetTerror
+![Image of Yaktocat](https://teemuli.github.com/images/TTtitleImage.png)
 A simple castle defence survival game with hand-drawn graphics.
 
 The goal of the game is to survive as long as possible. Protect the castle by blocking the boulders slung by the trebuchet.
