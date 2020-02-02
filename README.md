@@ -1,4 +1,4 @@
-# TrebuchetTerror ([PLAY](https://teemuli.github.io))
+# TrebuchetTerror ([PLAY](https://teemuli.github.io/TrebuchetTerror_CastleDefence.html))
 ![TT](https://i.imgur.com/1Srx6TT.png)
 A simple castle defence survival game with hand-drawn graphics.
 
